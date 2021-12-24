@@ -1,0 +1,271 @@
+[
+    {
+        "city": "Oran",
+        "location": "West",
+        "description": "Visit Oran for an amazing and unforgettable adventure",
+        "categories": [
+            {
+                "name": "Aventure",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/climbing.jpg",
+                        "title": "Climbing",
+                        "city": "Oran",
+                        "organizer": "Add Club Oran",
+                        "description": "Climbing avec Zeriba Add Club Oran"
+                    },
+                    {
+                        "imageUrl": "assets/images/canyoning.jpg",
+                        "title": "Canyoning",
+                        "city": "Oran",
+                        "organizer": "Add Club Oran",
+                        "description": "Canyoning avec Add Club Oran"
+                    },
+                    {
+                        "imageUrl": "assets/images/ski.jpg",
+                        "title": "Ski",
+                        "city": "Oran",
+                        "organizer": "Adventure time T.T.A",
+                        "description": "Ski avec Adventure time T.T.A"
+                    }
+                ]
+            },
+            {
+                "name": "Loisir",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/baladeEnLimousine.jpg",
+                        "title": "Balade en limousine",
+                        "city": "Oran",
+                        "organizer": "Oran VIP Limousine",
+                        "description": "Balade en limousine avec Oran VIP Limousine"
+                    },
+                    {
+                        "imageUrl": "assets/images/trompolinePark.jpg",
+                        "title": "Trampoline park",
+                        "city": "Oran",
+                        "organizer": "Cool park Oran",
+                        "description": "Trampoline à Cool park Oran"
+                    }
+                ]
+            },
+            {
+                "name": "Nature & Camping",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/baladeACheval.jpg",
+                        "title": "Balade à Cheval",
+                        "city": "Oran",
+                        "organizer": "Association équestre Oran",
+                        "description": "Balade à cheval avec Association équestre Oran"
+                    },
+                    {
+                        "imageUrl": "assets/images/baladeEnVelo.jpg",
+                        "title": "Balade en vélo",
+                        "city": "Oran",
+                        "organizer": "Club A.V.O",
+                        "description": "Balade en vélo avec Club A.V.O"
+                    }
+                ]
+            },
+            {
+                "name": "Nautique",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/kayak.jpg",
+                        "title": "Kayak",
+                        "city": "Oran",
+                        "organizer": "ASKM ORAN",
+                        "description": "Kayak avec ASKM ORAN"
+                    },
+                    {
+                        "imageUrl": "assets/images/plange.jpg",
+                        "title": "Plongée sous-marine",
+                        "city": "Oran",
+                        "organizer": "Association Barbarous",
+                        "description": "Plongée sous-marine avec Association Barbarous"
+                    }
+                ]
+            },
+            {
+                "name": "Danse & Music",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/zumbaParty.jpg",
+                        "title": "Zumba party",
+                        "city": "Oran",
+                        "organizer": "Fitness Street Club",
+                        "description": "Zumba avec Fitness Street Club"
+                    }
+                ]
+            }
+        ],
+        "imageUrl": "assets/images/oran.jpg"
+    },
+    {
+        "city": "Alger",
+        "location": "Centre",
+        "description": "Visit Alger for an amazing and unforgettable adventure",
+        "categories": [
+            {
+                "name": "Aventure",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/algerPeurParty.jpg",
+                        "title": "Alger peur party",
+                        "city": "Alger",
+                        "organizer": "Alger peur",
+                        "description": "Alger peur party avec Alger peur party"
+                    },
+                    {
+                        "imageUrl": "assets/images/laserGameParty.jpg",
+                        "title": "Laser game",
+                        "city": "Alger",
+                        "organizer": "Laser strike DZ",
+                        "description": "Laser game avec Laser strike DZ"
+                    },
+                    {
+                        "imageUrl": "assets/images/paintBallAlger.jpg",
+                        "title": "Paintball Algérie",
+                        "city": "Alger",
+                        "organizer": "Paintball Algérie",
+                        "description": "Paintball avec Paintball Algérie"
+                    }
+                ]
+            },
+            {
+                "name": "Loisir",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/baladeEnLimousineAlger.jpg",
+                        "title": "Balade en limousine",
+                        "city": "Alger",
+                        "organizer": "Voiture de luxe DZ",
+                        "description": "Balade en limousine avec Voiture de luxe DZ"
+                    },
+                    {
+                        "imageUrl": "assets/images/horse.jpg",
+                        "title": "Balade à Cheval",
+                        "city": "Alger",
+                        "organizer": "Tipaza horses",
+                        "description": "Balade à cheval avec Tipaza horses"
+                    },
+                    {
+                        "imageUrl": "assets/images/tireALarc.jpg",
+                        "title": "Tire à l’arc",
+                        "city": "Alger",
+                        "organizer": "Archery Algerian",
+                        "description": "Tire à l’arc avec Archery Algerian"
+                    }
+                ]
+            },
+            {
+                "name": "Nautique",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/flyBoard.jpg",
+                        "title": "Flyboard",
+                        "city": "Alger",
+                        "organizer": "Flyboard Algérie",
+                        "description": "Flyboard avec Flyboard Algérie"
+                    },
+                    {
+                        "imageUrl": "assets/images/jetSki.jpg",
+                        "title": "Jet ski",
+                        "city": "Alger",
+                        "organizer": "Jet ski DZ",
+                        "description": "Jet ski avec Jet ski DZ"
+                    }
+                ]
+            },
+            {
+                "name": "Danse & Music",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/zumbaParty.jpg",
+                        "title": "Zumba Party",
+                        "city": "Alger",
+                        "organizer": "Amira Zumba",
+                        "description": "Zumba avec Amira Zumba"
+                    },
+                    {
+                        "imageUrl": "assets/images/salsa.jpg",
+                        "title": "Salsa",
+                        "city": "Alger",
+                        "organizer": "Pedro Salsa",
+                        "description": "Salsa avec Pedro Salsa"
+                    }
+                ]
+            }
+        ],
+        "imageUrl": "assets/images/alger.jpg"
+    },
+    {
+        "city": "Constantine",
+        "location": "Est",
+        "description": "Visit Constantine for an amazing and unforgettable adventure",
+        "categories": [],
+        "imageUrl": "assets/images/constantine.jpg"
+    },
+
+    {
+        "city": "Djanet",
+        "location": "Sud",
+        "description": "Visit Djanet for an amazing and unforgettable adventure",
+        "categories": [
+            {
+                "name": "Aventure",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/quad.jpg",
+                        "title": "Balade en Quad",
+                        "city": "Djanet",
+                        "organizer": "Jawla Club",
+                        "description": "Balade en Quad avec Jawla Club"
+                    },
+                    {
+                        "imageUrl": "assets/images/sortieEn44.jpg",
+                        "title": "Sortie en 4X4",
+                        "city": "Djanet",
+                        "organizer": "Zeriba voyage",
+                        "description": "Sortie en 4X4 avec Zeriba voyage"
+                    },
+                    {
+                        "imageUrl": "assets/images/voyagerAvecKhanfoussa.jpg",
+                        "title": "Voyager avec Khanfousa",
+                        "city": "Djanet",
+                        "organizer": "Khanfousa",
+                        "description": "Voyager avec Khanfousa"
+                    },
+                    {
+                        "imageUrl": "assets/images/meilleurTourDeBuggy.jpg",
+                        "title": "Meilleur tour de buggy",
+                        "city": "Djanet",
+                        "organizer": "Khanfousa",
+                        "description": "Meilleur tour de buggy avec Jawla club"
+                    }
+                ]
+            },
+            {
+                "name": "Culture & histoire",
+                "activities": [
+                    {
+                        "imageUrl": "assets/images/laCultureTouareg.jpg",
+                        "title": "La culture Touareg",
+                        "city": "Djanet",
+                        "organizer": "Viptouareg",
+                        "description": "La culture Touareg avec Viptouareg"
+                    },
+                    {
+                        "imageUrl": "assets/images/chameau.jpg",
+                        "title": "Balade en chameau",
+                        "city": "Djanet",
+                        "organizer": "Zeriba voyage",
+                        "description": "Balade en chameau avec Zeriba voyage"
+                    }
+                ]
+            }
+        ],
+        "imageUrl": "assets/images/djanet.jpg"
+    }
+]
